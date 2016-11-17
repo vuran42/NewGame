@@ -1,0 +1,1 @@
+market://details?id=com.bor.toplamaca
